@@ -33,7 +33,7 @@
 
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<img alt="GitHub" width="26px" src="img/github-light.svg" style="padding-right:10px;" />
+<img alt="GitHub" width="26px" src="img/github-dark.svg" style="padding-right:10px;" />
 
 </p>
 
