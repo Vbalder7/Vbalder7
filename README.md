@@ -35,6 +35,16 @@
 
 <img alt="GitHub" width="26px" src="img/github-dark.svg" style="padding-right:10px;" />
 
+<img alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
+
+<img alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+
+<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" style="padding-right:10px;" />
+
+<img alt="MarkDown" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
+
+<img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
+
 </p>
 
 
