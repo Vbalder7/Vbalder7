@@ -46,8 +46,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <p align="left">
+  <img alt="Vbalder7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vbalder7&show_icons=true&hide_border=false&theme=tokyonight&count_private=true" />
 
-  <img align="left" alt="Vbalder7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vbalder7&show_icons=true&hide_border=false&theme=tokyonight" />
+  <img alt="Vbalder7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact"/>
+
+  </p>
 
 </details>
 
