@@ -21,37 +21,35 @@
 
 ### Languages and Tools
 
-<p align="right" >
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<p align="left" >
+  <img alt="Visual Studio Code" style="padding-right:25px;"  width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<img alt="Bash" width="26px" src="img/terminal-dark.svg" />
+  <img alt="Bash" style="padding-right:25px;"  width="26px" src="img/terminal-dark.svg" />
 
-<img alt="Debian" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/debian/debian-original.svg" />
+  <img alt="Debian" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/debian/debian-original.svg" />
 
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" />
+  <img alt="Git" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" />
 
-<img alt="GitHub" width="26px" src="img/github-dark.svg" />
+  <img alt="GitHub" style="padding-right:25px;"  width="26px" src="img/github-dark.svg" />
 
-<img alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg" />
+  <img alt="Heroku" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg" />
 
-<img alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />
+  <img alt="LinkedIn" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />
 
-<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" />
+  <img alt="Linux" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" />
 
-<img alt="MarkDown" width="26px" src="img/png-clipart-logo-markdown-wikimedia-movement-scalable-graphics-brand-markdowns-white-text.png" />
+  <img alt="MarkDown"  style="padding-right:25px;" width="26px" src="img/png-clipart-logo-markdown-wikimedia-movement-scalable-graphics-brand-markdowns-white-text.png" />
 
-<img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" />
+  <img alt="Ubuntu" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" />
 
 </p>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <p align="left">
-  <img alt="Vbalder7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vbalder7&show_icons=true&hide_border=false&theme=algolia&count_private=true" />
-
-  <img alt="Vbalder7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbalder7&langs_count=8&layout=compact"/>
-
-  </p>
+    <p align="left">
+      <img alt="Vbalder7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vbalder7&show_icons=true&hide_border=false&theme=algolia&count_private=true" />
+      <img alt="Vbalder7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbalder7&langs_count=8&layout=compact"/>
+    </p>
 
 </details>
 
