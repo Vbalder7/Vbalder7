@@ -1,6 +1,7 @@
 # Hi there, I'm Victor A Balderas👋
-
+<!-- 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-kp7DBD2Q5l6WEYrb2_OQ?style=for-the-badge&logo=youtube&logoColor=FF0000&color=FF0000)][youtube]
+-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dr_Balders?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)][follow]
 
 ## I'm a Student and  Developer
@@ -11,13 +12,13 @@
 
 ### Connect with me
 
-[![website](./img/youtube-dark.svg)](https://youtube.com/channel/UCl-kp7DBD2Q5l6WEYrb2_OQ)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCl-kp7DBD2Q5l6WEYrb2_OQ)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/Dr_Balders)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dr_Balders)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/victor-balderas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-balderas)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/victorbalderas1/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victorbalderas1/)
 
 ### Languages and Tools
 
