@@ -44,7 +44,7 @@
 &nbsp;&nbsp;
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/BigVic5030)
 &nbsp;&nbsp;
-[![Linktr.ee](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linkre.ee/BigVic5030)
+[![Linktr.ee](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/BigVic5030)
 
 ### Languages and Tools
 
