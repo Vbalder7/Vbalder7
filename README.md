@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Vbalder7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vbalder7&show_icons=true&hide_border=false&title_color=1da1f2&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Vbalder7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vbalder7&show_icons=true&hide_border=false&theme=tokyonight" />
 
 </details>
 
