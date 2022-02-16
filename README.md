@@ -1,17 +1,15 @@
-# Hi there, I'm Victor - aka [BigVic5030][youtube] 👋 
+# Hi there, I'm Victor - aka [BigVic5030][youtube] 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-kp7DBD2Q5l6WEYrb2_OQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/Dr_Balders?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Dr_Balders)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Dr_Balders?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVbalder7&screen_name=Dr_Balders)
 
-
-
-## I'm a Student and  Developer!!
+## I'm a Student and  Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more languages
+- 🥅 2022 Goals: Learn more languages & contribute more!!
 - ⚡ Fun fact: I love to draw and play guitar / piano and other instruments
 
-### Connect with me:
+### Connect with me
 
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCl-kp7DBD2Q5l6WEYrb2_OQ)
 &nbsp;&nbsp;
@@ -21,7 +19,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/victorbalderas1/)
 
-### Languages and Tools:
+### Languages and Tools
+
 <p align="left">
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
@@ -44,7 +43,6 @@
 <img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
 
 </p>
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
