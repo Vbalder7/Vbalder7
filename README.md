@@ -21,26 +21,26 @@
 
 ### Languages and Tools
 
-<p align="left" style="padding-right:500px;">
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<p align="justify" >
+<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<img alt="Bash" width="26px" src="img/terminal-dark.svg" style="padding-right:10px;" />
+<img alt="Bash" width="26px" src="img/terminal-dark.svg" />
 
-<img alt="Debian" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/debian/debian-original.svg" style="padding-right:10px;" />
+<img alt="Debian" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/debian/debian-original.svg" />
 
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" style="padding-right:10px;" />
+<img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" />
 
-<img alt="GitHub" width="26px" src="img/github-dark.svg" style="padding-right:10px;" />
+<img alt="GitHub" width="26px" src="img/github-dark.svg" />
 
-<img alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
+<img alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg" />
 
-<img alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+<img alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />
 
-<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" />
 
-<img alt="MarkDown" width="26px" src="img/png-clipart-logo-markdown-wikimedia-movement-scalable-graphics-brand-markdowns-white-text.png" style="padding-right:10px;" />
+<img alt="MarkDown" width="26px" src="img/png-clipart-logo-markdown-wikimedia-movement-scalable-graphics-brand-markdowns-white-text.png" />
 
-<img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
+<img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" />
 
 </p>
 
