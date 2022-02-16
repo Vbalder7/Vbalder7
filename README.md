@@ -21,7 +21,7 @@
 
 ### Languages and Tools
 
-<p align="left" >
+<p align="left" style="padding-right:25px;" >
   <img alt="Visual Studio Code" style="padding-right:25px;"  width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
   <img alt="Bash" style="padding-right:25px;"  width="26px" src="img/terminal-dark.svg" />
