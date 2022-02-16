@@ -1,4 +1,4 @@
-# Hi there, I'm Victor - aka [BigVic5030][youtube] 👋
+# Hi there, I'm Victor A Balderas👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-kp7DBD2Q5l6WEYrb2_OQ?style=for-the-badge&logo=youtube&logoColor=FF0000&color=FF0000)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dr_Balders?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)][follow]
