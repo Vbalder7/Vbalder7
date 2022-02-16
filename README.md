@@ -63,6 +63,6 @@
 </details>
 
 [twitter]: https://twitter.com/Dr_Balders
-[youtube]: https://www.youtube.com/channel/UCl-kp7DBD2Q5l6WEYrb2_OQ
-[instagram]: https://www.instagram.com/victorbalderas1/
-[linkedin]: www.linkedin.com/in/victor-balderas
+[youtube]: https://youtube.com/channel/UCl-kp7DBD2Q5l6WEYrb2_OQ
+[instagram]: https://instagram.com/victorbalderas1/
+[linkedin]: https://linkedin.com/in/victor-balderas
