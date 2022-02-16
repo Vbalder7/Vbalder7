@@ -1,7 +1,7 @@
 # Hi there, I'm Victor - aka [BigVic5030][youtube] 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-kp7DBD2Q5l6WEYrb2_OQ?style=for-the-badge&logo=youtube&logoColor=FF0000&color=FF0000)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/Dr_Balders?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVbalder7&screen_name=Dr_Balders)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Dr_Balders?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)][follow]
 
 ## I'm a Student and  Developer
 
@@ -62,6 +62,7 @@
 
 </details>
 
+[follow]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVbalder7&screen_name=Dr_Balders
 [twitter]: https://twitter.com/Dr_Balders
 [youtube]: https://youtube.com/channel/UCl-kp7DBD2Q5l6WEYrb2_OQ
 [instagram]: https://instagram.com/victorbalderas1/
