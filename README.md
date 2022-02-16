@@ -24,7 +24,7 @@
 <p align="left" style="padding-right:25px;" >
   <img alt="Visual Studio Code" style="padding-right:25px;"  width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-  <img alt="Bash" style="padding-right:25px;"  width="26px" src="img/terminal-dark.svg" />
+  <img alt="Bash" style="padding-right:25px;"  width="26px" src="img/bash-light.png" />
 
   <img alt="Debian" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/debian/debian-original.svg" />
 
@@ -38,7 +38,7 @@
 
   <img alt="Linux" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" />
 
-  <img alt="MarkDown"  style="padding-right:25px;" width="26px" src="img/png-clipart-logo-markdown-wikimedia-movement-scalable-graphics-brand-markdowns-white-text.png" />
+  <img alt="MarkDown"  style="padding-right:25px;" width="26px" src="img/markdown-light.png" />
 
   <img alt="Ubuntu" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" />
 
