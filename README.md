@@ -13,9 +13,9 @@
 ## Certifications
 
 [![Py Cert](https://img.shields.io/badge/Python%20Certificate-FFD700?style=for-the-badge)](https://app.testdome.com/cert/f4c4009c4f1e41a29269b76e451049f0)
-
+&nbsp;&nbsp;
 [![Git Cert](https://img.shields.io/badge/Git%20Certificate-FFD700?style=for-the-badge)](https://app.testdome.com/cert/46835649877e4f829483d6cc95931645)
-
+&nbsp;&nbsp;
 [![Linux Cert](https://img.shields.io/badge/Linux%20Certificate-FFD700?style=for-the-badge)](https://app.testdome.com/cert/3e2b9eba1cfc4978bb9556bb444b7362)
 
 ### Connect with me
