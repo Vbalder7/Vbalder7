@@ -27,8 +27,6 @@
 
 <img alt="Bash" width="26px" src="img/terminal-dark.svg" style="padding-right:10px;" />
 
-<img alt="Chrome" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/chrome/chrome-original.svg" style="padding-right:10px;" />
-
 <img alt="Debian" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/debian/debian-original.svg" style="padding-right:10px;" />
 
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -41,7 +39,7 @@
 
 <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
-<img alt="MarkDown" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
+<img alt="MarkDown" width="26px" src="img/png-clipart-logo-markdown-wikimedia-movement-scalable-graphics-brand-markdowns-white-text.png" style="padding-right:10px;" />
 
 <img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
 
