@@ -11,13 +11,13 @@
 
 ### Connect with me
 
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCl-kp7DBD2Q5l6WEYrb2_OQ)
+[![website](./img/youtube-dark.svg)](https://youtube.com/channel/UCl-kp7DBD2Q5l6WEYrb2_OQ)
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/Dr_Balders)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/victor-balderas)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/victor-balderas)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/victorbalderas1/)
+[![website](./img/instagram-dark.svg)](https://instagram.com/victorbalderas1/)
 
 ### Languages and Tools
 
