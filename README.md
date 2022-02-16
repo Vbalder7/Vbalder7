@@ -1,7 +1,7 @@
 # Hi there, I'm Victor - aka [BigVic5030][youtube] 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-kp7DBD2Q5l6WEYrb2_OQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/Dr_Balders?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVbalder7&screen_name=Dr_Balders)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCl-kp7DBD2Q5l6WEYrb2_OQ?style=for-the-badge&logo=youtube&logoColor=FF0000&color=FF0000)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/Dr_Balders?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVbalder7&screen_name=Dr_Balders)
 
 ## I'm a Student and  Developer
 
@@ -48,7 +48,7 @@
   <summary>:zap: GitHub Stats</summary>
     <p align="left">
       <img alt="Vbalder7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vbalder7&show_icons=true&hide_border=false&theme=algolia&count_private=true" />
-      <img alt="Vbalder7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbalder7&langs_count=8&layout=compact"/>
+      <img alt="Vbalder7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbalder7&langs_count=8&layout=compact&theme=algolia"/>
     </p>
 
 </details>
