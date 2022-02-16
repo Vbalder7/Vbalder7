@@ -23,24 +23,34 @@
 
 <p align="left" style="padding-right:25px;" >
   <img alt="Visual Studio Code" style="padding-right:25px;"  width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  &nbsp;&nbsp;
 
   <img alt="Git" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" />
+  &nbsp;&nbsp;
 
   <img alt="Ubuntu" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" />
+  &nbsp;&nbsp;
 
   <img alt="LinkedIn" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />
+  &nbsp;&nbsp;
 
   <img alt="Debian" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/debian/debian-original.svg" />
+  &nbsp;&nbsp;
 
   <img alt="Heroku" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg" />
+  &nbsp;&nbsp;
 
   <img alt="Linux" style="padding-right:25px;"  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" />
+  &nbsp;&nbsp;
 
   <img alt="Bash" style="padding-right:25px;"  width="26px" src="img/bash-light.png" />
+  &nbsp;&nbsp;
 
   <img alt="GitHub" style="padding-right:25px;"  width="26px" src="img/github-dark.svg" />
+  &nbsp;&nbsp;
 
   <img alt="MarkDown"  style="padding-right:25px;" width="26px" src="img/markdown-light.png" />
+  &nbsp;&nbsp;
 </p>
 
 <details>
