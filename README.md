@@ -6,9 +6,7 @@
 
 ## I'm a Student and  Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more languages & contribute more!!
-- ⚡ Fun fact: I love to draw and play guitar / piano and other instruments
+I'm a self-taught Python engineer who excels at learning new things and am always looking to expand their knowledge. I take pride in my work and am dedicated to the success of my team.
 
 ## Certifications
 
@@ -48,7 +46,7 @@
 
 ### Languages and Tools
 
-<p align="left" style="padding-right:25px;" >
+<p>
 
   ![pyhton](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
   &nbsp;&nbsp;
