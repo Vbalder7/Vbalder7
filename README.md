@@ -93,6 +93,14 @@ I'm a self-taught Python engineer who excels at learning new things and am alway
       <img alt="Vbalder7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbalder7&langs_count=8&layout=compact&theme=algolia"/>
     </p>
 
+## Contact Info
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toritoab01@gmail.com)
+
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:victor.a.balderas@outlook.com)
+
+[![Tel](https://tinyurl.com/2pk4nued)](tel:9563916467)
+
 </details>
 
 [follow]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVbalder7&screen_name=Dr_Balders
